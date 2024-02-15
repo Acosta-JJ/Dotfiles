@@ -26,6 +26,6 @@ yabai --start-service
 skhd --start-service
 # Install custom prompt with startship
 brew install starship
-# Add this to .bashrc
+# Add this to .bash_profile
 eval "$(starship init bash)"
 
